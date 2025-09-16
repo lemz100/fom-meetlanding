@@ -71,7 +71,6 @@ Users should be able to:
 
 Figured out how to re-position the hero images as if there were 3 children in the hero section by using display: contents. Manipulated the page without touching the HTML.
 
-
 ## Author
 
 - Frontend Mentor - [@lemz100](https://www.frontendmentor.io/profile/lemz100)
